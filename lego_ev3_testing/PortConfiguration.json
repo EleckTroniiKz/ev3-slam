@@ -1,0 +1,11 @@
+{
+  "motors": {
+    "left_motor": "B",
+    "right_motor": "D",
+    "arm_motor": "C"
+  },
+  "sensors": {
+    "ultrasonic_sensor": "1",
+    "gyro_sensor": "2"
+  }
+}
