@@ -23,13 +23,6 @@ A university robotics project developed during our 6th semester. We used a LEGO 
 
 ---
 
-## 📸 Demo
-
-<!-- Replace with actual demo video/GIF if available -->
-![Demo](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
-
----
-
 ## 🛠️ Technologies Used
 
 - **Python 3**
@@ -39,3 +32,7 @@ A university robotics project developed during our 6th semester. We used a LEGO 
 - **Custom Quadtree** data structure for spatial map
 
 ---
+
+
+<!-- Replace with actual demo video/GIF if available -->
+![](https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif)
